@@ -51,16 +51,21 @@ months (to build and cross-check the cleaning logic), then the identical
 methodology was automated in Python/pandas across the full 12-month dataset.
 Full technical detail — formulas, validation checks, and issues encountered
 and resolved — is documented in
-[`reports/Cyclistic_Technical_Appendix_EN.pdf`](reports/Cyclistic_Technical_Appendix_EN.pdf).
+[`reports/Cyclistic Technical Appendix EN.pdf`](reports/Cyclistic%20Technical%20Appendix%20EN.pdf)
 
 Raw data source: [Divvy trip data](https://divvy-tripdata.s3.amazonaws.com/index.html),
 provided by Motivate International Inc.
 
 ## 📄 Full Documentation
 
-- 📘 [Stakeholder Report](reports/Cyclistic_Case_Study_Report_EN.pdf)
-- 🔧 [Technical Appendix](reports/Cyclistic_Technical_Appendix_EN.pdf)
+- 📘 [Stakeholder Report](reports/Cyclistic%20Case%20Study%20Report%20EN.pdf)
+- 🔧 [Technical Appendix](reports/Cyclistic%20Technical%20Appendix%20EN.pdf)
 - 🎤 [Presentation Deck](presentation/Cyclistic_Presentation.pdf)
+- 
+## 📊 Key Visualizations
 
+![Chart#1](visuals/chart%231.png)
+![Chart#2](visuals/chart%232.png)
+![Chart#3](visuals/chart%233.png)
 ---
 *Prepared by Rayan Ibrahim | Data Analyst*
